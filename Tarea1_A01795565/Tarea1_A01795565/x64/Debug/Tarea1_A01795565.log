@@ -1,5 +1,0 @@
-﻿  Tarea1_A01795565.cpp
-G:\My Drive\04 - Trimestre Enero - Marzo 2025\Cómputo en la Nube\Development\Tarea1_A01795565\Tarea1_A01795565\Tarea1_A01795565.cpp(22,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-G:\My Drive\04 - Trimestre Enero - Marzo 2025\Cómputo en la Nube\Development\Tarea1_A01795565\Tarea1_A01795565\Tarea1_A01795565.cpp(23,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-G:\My Drive\04 - Trimestre Enero - Marzo 2025\Cómputo en la Nube\Development\Tarea1_A01795565\Tarea1_A01795565\Tarea1_A01795565.cpp(17,9): warning C4101: 'i': unreferenced local variable
-  Tarea1_A01795565.vcxproj -> G:\My Drive\04 - Trimestre Enero - Marzo 2025\Cómputo en la Nube\Development\Tarea1_A01795565\x64\Debug\Tarea1_A01795565.exe
